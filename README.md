@@ -1,5 +1,6 @@
 # dapp-hub-js-sdk
-dapp hub fast  js-sdk
+
+dapp sdk 是
 
 参考体验demo链接:
 
@@ -10,4 +11,4 @@ http://dapp.open.demo.superlikeapp.com/?chain_type=16
 
 对接技术文档:
 
-
+http://ttdoc.imakejoy.com/
